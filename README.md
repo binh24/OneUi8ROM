@@ -1,7 +1,10 @@
-========================================================================
+<h1 align="center">
+  <img loading="lazy" src="readme-res/banner.png"/>
+</h1>
+======================
                          [ ANDROID CUSTOM ROM ]
                              ONEUI 8.5
-========================================================================
+======================
 
     [+] Developer: binh24
     [+] Status: Stable / Optimized / Feature-Rich
