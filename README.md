@@ -1,79 +1,22 @@
-<h1 align="center">
-  <img loading="lazy" src="readme-res/banner.png"/>
-</h1>
-<p align="center">
-  <a href="https://github.com/ArtisanROM/ArtisanROM/blob/sixteen/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/ArtisanROM/ArtisanROM?style=for-the-badge&logo=github"/></a>
-  <a href="https://github.com/ArtisanROM/ArtisanROM/commits/sixteen"><img loading="lazy" src="https://img.shields.io/github/last-commit/ArtisanROM/ArtisanROM/sixteen?style=for-the-badge"/></a>
-  <a href="https://github.com/ArtisanROM/ArtisanROM/stargazers"><img loading="lazy" src="https://img.shields.io/github/stars/ArtisanROM/ArtisanROM?style=for-the-badge"/></a>
-</p>
-<p align="center">ArtisanROM <i>Quant</i> is a work-in-progress custom firmware for Samsung Galaxy devices.</p>
+========================================================================
+                         [ ANDROID CUSTOM ROM ]
+                             ONEUI 8.5
+========================================================================
 
-<p align="center">
-  <a href="https://github.com/ArtisanROM/ArtisanROM/issues">🚀 issues</a>
-  •
-  <a href="https://discord.gg/TxYWApVRaE">💬 Discord</a>
-  •
-  <a  href="https://github.com/ArtisanROM/ArtisanROM/wiki">📖 Wiki</a>
-  •
-  <a href="https://github.com/ArtisanROM/ArtisanROM/blob/sixteen/CHANGELOG.md">📝 Changelog</a>
-  •
-  <a href="https://github.com/ArtisanROM/ArtisanROM/blob/sixteen/MAINTAINERS">🧑‍💻 Maintainers</a>
-</p>
+    [+] Developer: binh24
+    [+] Status: Stable / Optimized / Feature-Rich
+    [+] Platform: Next-Gen Samsung Experience
 
-# What is ArtisanROM Quant?
-ArtisanROM Quant is a work-in-progress custom firmware for Samsung Galaxy devices.
+------------------------------------------------------------------------
+ > KEY FEATURES & HIGHLIGHTS:
+   * Smooth & Fluid Animations
+   * Advanced Customization Hub
+   * Enhanced Battery Life & Performance
+   * Debloated & Privacy Focused
+------------------------------------------------------------------------
 
-It's based on the latest and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
-
-It is based on the UN1CA build system which allows automatic downloading/extraction of the firmware, applying the required patches and generating a flashable zip package for the specified target device.
-
-ArtisanROM Quant supports devices using the Exynos 990 SoC
-
-Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
-
-# Features
-### Core features:
-- Based on the latest stable Galaxy S22 firmware
-- EROFS powered
-- Galaxy S25 wallpapers/sounds included
-- Galaxy AI support
-  - Audio eraser
-  - Browsing assist
-  - Call assist
-  - Drawing assist
-  - Interpreter
-  - Note assist
-  - Now brief
-  - Photo assist
-  - Semantic search
-  - Transcript assist
-  - Writing assist
-- High end animations
-- Native/live blur support
-- AOD clock transition support
-- Adaptive color tone support
-- Adaptive refresh rate support(HFR WIP)
-- Extra brightness support
-- Picture remaster support
-- Object, shadow and reflection eraser support
-- Image clipper support
-- Multi user support
-- Samsung DeX support*
-- Camera privacy toggle support
-- Debloated from useless system services/additional apps
-- Dual Messenger available for all apps
-- Custom FlipFont fonts support
-- Outdoor mode support
-- Auto PIN confirm with 4 digits
-- [BluetoothLibraryPatcher](https://github.com/3arthur6/BluetoothLibraryPatcher) integrated
-- [KnoxPatch](https://github.com/salvogiangri/KnoxPatch) integrated
-- Extra CSC features enabled (Call recording, Hiya, Network speed in status bar, AltZLife)
-
-\* DeX via HDMI not available for devices without USB-C DP support
-
-### ArtisanROM-exclusive features:
-- Integrated OTA updates app
-- Completely upstreamed kernels*
+                  "Redefining Your Galaxy Experience"
+========================================================================
 
 \* Exynos990
 
