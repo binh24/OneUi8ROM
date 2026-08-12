@@ -165,7 +165,7 @@ if $TARGET_COMMON_SUPPORT_DYN_RESOLUTION_CONTROL; then
     #         "$MODPATH/resolution/gamemanager.jar/0001-Disable-MULTI_RESOLUTION_SUPPORTED.patch"
     #     APPLY_PATCH "system_ext" "priv-app/SystemUI/SystemUI.apk" \
     #         "$MODPATH/resolution/SystemUI.apk/0001-Disable-multi-resolution-edge-lighting.patch"
-    # fi
+fi
 
 # SEC_PRODUCT_FEATURE_COMMON_SUPPORT_EMBEDDED_SIM
 if $SOURCE_COMMON_SUPPORT_EMBEDDED_SIM; then
