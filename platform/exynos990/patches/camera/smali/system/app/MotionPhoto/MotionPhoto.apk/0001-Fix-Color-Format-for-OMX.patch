@@ -21,3 +21,4 @@ diff --git a/smali/com/samsung/android/sum/core/filter/EncoderFilter.smali b/sma
     invoke-static {v4}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
 -- 
 2.53.0
+
