@@ -157,15 +157,15 @@ if $TARGET_COMMON_SUPPORT_DYN_RESOLUTION_CONTROL; then
     #     APPLY_PATCH "system" "system/priv-app/SecSettings/SecSettings.apk" \
     #         "$MODPATH/resolution/SecSettings.apk/0002-Backport-legacy-DYN_RESOLUTION_CONTROL-code.patch"
     # fi
-else
-    SET_FLOATING_FEATURE_CONFIG "SEC_FLOATING_FEATURE_COMMON_CONFIG_DYN_RESOLUTION_CONTROL" --delete
-    APPLY_PATCH "system" "system/framework/framework.jar" \
-        "$MODPATH/resolution/framework.jar/0001-Disable-MULTI_RESOLUTION-flags.patch"
-    APPLY_PATCH "system" "system/framework/gamemanager.jar" \
-        "$MODPATH/resolution/gamemanager.jar/0001-Disable-MULTI_RESOLUTION_SUPPORTED.patch"
-    APPLY_PATCH "system_ext" "priv-app/SystemUI/SystemUI.apk" \
-        "$MODPATH/resolution/SystemUI.apk/0001-Disable-multi-resolution-edge-lighting.patch"
-fi
+    # else
+    #     SET_FLOATING_FEATURE_CONFIG "SEC_FLOATING_FEATURE_COMMON_CONFIG_DYN_RESOLUTION_CONTROL" --delete
+    #     APPLY_PATCH "system" "system/framework/framework.jar" \
+    #         "$MODPATH/resolution/framework.jar/0001-Disable-MULTI_RESOLUTION-flags.patch"
+    #     APPLY_PATCH "system" "system/framework/gamemanager.jar" \
+    #         "$MODPATH/resolution/gamemanager.jar/0001-Disable-MULTI_RESOLUTION_SUPPORTED.patch"
+    #     APPLY_PATCH "system_ext" "priv-app/SystemUI/SystemUI.apk" \
+    #         "$MODPATH/resolution/SystemUI.apk/0001-Disable-multi-resolution-edge-lighting.patch"
+    # fi
 
 # SEC_PRODUCT_FEATURE_COMMON_SUPPORT_EMBEDDED_SIM
 if $SOURCE_COMMON_SUPPORT_EMBEDDED_SIM; then
