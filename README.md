@@ -22,6 +22,7 @@
 ========================================================================
 
 \* Exynos990
+### OneUI 8.5 features:
 
 ### UN1CA-exclusive features:
 - Native/live blur toggle
