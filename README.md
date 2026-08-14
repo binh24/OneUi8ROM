@@ -75,7 +75,3 @@ A special thanks goes to the following for their invaluable contributions in no 
 - **[iDrinkCoffee](https://github.com/iDrinkCoffee-TG)** and **[RisenID](https://github.com/RisenID)** for their support
 - **[LineageOS Team](https://www.lineageos.org/)** for their original [OTA updater implementation](https://github.com/LineageOS/android_packages_apps_Updater)
 - *All the UN1CA project forks, contributors, testers and users ❤️*
-
-# ArtisanROM Archive
-- [ArtisanROM Archive Org](https://github.com/ArtisanROM-archive)
-- [Old Sixteen branch](https://github.com/ArtisanROM-archive/ArtisanROM_old)
